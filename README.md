@@ -45,7 +45,7 @@ It enables industries to reduce downtime, optimize maintenance schedules, and sa
 | Machine Learning | scikit-learn, imbalanced-learn |
 | Visualization | Matplotlib, Seaborn |
 | Dashboard | Streamlit |
-| Reporting | python-pptx |
+
 
 ---
 
@@ -58,3 +58,4 @@ MaintelliSense/
 ├── presentation/    # Auto-generated PPT files
 ├── src/             # Source code scripts
 └── main.py          # Main execution script
+
